@@ -1,0 +1,101 @@
+Survey,Question,Year,Prevalence,Lower95%CI,Upper95%CI
+CHS,Health Insurance Coverage,2010,83.3,82.0,84.6
+CHS,Health Insurance Coverage,2010,83.3,82.0,84.6
+CHS,Did not get needed medical care,2010,10.3,9.4,11.4
+CHS,Did not get needed medical care,2010,10.3,9.4,11.4
+CHS,No Personal Doctor,2010,n/a,n/a,n/a
+CHS,No Personal Doctor,2010,n/a,n/a,n/a
+CHS,Drinks 1 or more sugar-sweetened beverages per day,2010,30.3,28.8,31.8
+CHS,Drinks 1 or more sugar-sweetened beverages per day,2010,30.3,28.8,31.8
+CHS,Smoking Status (current smokers),2010,14.0,12.9,15.3
+CHS,Smoking Status (current smokers),2010,14.0,12.9,15.3
+CHS,Binge Drinking,2010,n/a,n/a,n/a
+CHS,Binge Drinking,2010,n/a,n/a,n/a
+CHS,Obesity,2010,23.4,22.1,24.8
+CHS,Obesity,2010,23.4,22.1,24.8
+CHS,"Colon cancer screening, adults age 50+ (colonoscopy)",2010,67.5,65.4,69.4
+CHS,"Colon cancer screening, adults age 50+ (colonoscopy)",2010,67.5,65.4,69.4
+CHS,Self-reported Health Status (excellent/very good/good),2010,79.1,77.8,80.3
+CHS,Self-reported Health Status (excellent/very good/good),2010,79.1,77.8,80.3
+CHS,"Flu shot in last 12 months, adults ages 65+ (not age-adjusted)",2010,62.3,59.4,65.1
+CHS,"Flu shot in last 12 months, adults ages 65+ (not age-adjusted)",2010,62.3,59.4,65.1
+CHS,Health Insurance Coverage,2011,81.4,79.7,83.0
+CHS,Health Insurance Coverage,2011,81.4,79.7,83.0
+CHS,Did not get needed medical care,2011,10.7,9.6,12.0
+CHS,Did not get needed medical care,2011,10.7,9.6,12.0
+CHS,No Personal Doctor,2011,16.9,15.5,18.5
+CHS,No Personal Doctor,2011,16.9,15.5,18.5
+CHS,Drinks 1 or more sugar-sweetened beverages per day,2011,29.9,28.2,31.7
+CHS,Drinks 1 or more sugar-sweetened beverages per day,2011,29.9,28.2,31.7
+CHS,Smoking Status (current smokers),2011,14.8,13.5,16.3
+CHS,Smoking Status (current smokers),2011,14.8,13.5,16.3
+CHS,Binge Drinking,2011,17.9,16.4,19.6
+CHS,Binge Drinking,2011,17.9,16.4,19.6
+CHS,Obesity,2011,23.7,22.2,25.3
+CHS,Obesity,2011,23.7,22.2,25.3
+CHS,"Colon cancer screening, adults age 50+ (colonoscopy)",2011,68.6,66.2,70.8
+CHS,"Colon cancer screening, adults age 50+ (colonoscopy)",2011,68.6,66.2,70.8
+CHS,Self-reported Health Status (excellent/very good/good),2011,78.2,76.7,79.6
+CHS,Self-reported Health Status (excellent/very good/good),2011,78.2,76.7,79.6
+CHS,"Flu shot in last 12 months, adults ages 65+ (not age-adjusted)",2011,67.4,63.9,70.7
+CHS,"Flu shot in last 12 months, adults ages 65+ (not age-adjusted)",2011,67.4,63.9,70.7
+CHS,Health Insurance Coverage,2012,80.2,78.7,81.5
+CHS,Health Insurance Coverage,2012,80.2,78.7,81.5
+CHS,Did not get needed medical care,2012,11.1,10.1,12.2
+CHS,Did not get needed medical care,2012,11.1,10.1,12.2
+CHS,No Personal Doctor,2012,18.3,17.0,19.7
+CHS,No Personal Doctor,2012,18.3,17.0,19.7
+CHS,Drinks 1 or more sugar-sweetened beverages per day,2012,28.2,26.7,29.6
+CHS,Drinks 1 or more sugar-sweetened beverages per day,2012,28.2,26.7,29.6
+CHS,Smoking Status (current smokers),2012,15.5,14.4,16.8
+CHS,Smoking Status (current smokers),2012,15.5,14.4,16.8
+CHS,Binge Drinking,2012,19.6,18.2,20.9
+CHS,Binge Drinking,2012,19.6,18.2,20.9
+CHS,Obesity,2012,24.2,22.8,25.5
+CHS,Obesity,2012,24.2,22.8,25.5
+CHS,"Colon cancer screening, adults age 50+ (colonoscopy)",2012,68.5,66.3,70.5
+CHS,"Colon cancer screening, adults age 50+ (colonoscopy)",2012,68.5,66.3,70.5
+CHS,Self-reported Health Status (excellent/very good/good),2012,78.7,77.5,79.9
+CHS,Self-reported Health Status (excellent/very good/good),2012,78.7,77.5,79.9
+CHS,"Flu shot in last 12 months, adults ages 65+ (not age-adjusted)",2012,61.8,58.5,64.9
+CHS,"Flu shot in last 12 months, adults ages 65+ (not age-adjusted)",2012,61.8,58.5,64.9
+CHS,Health Insurance Coverage,2013,79.1,77.8,80.3
+CHS,Health Insurance Coverage,2013,79.1,77.8,80.3
+CHS,Did not get needed medical care,2013,11.2,10.3,12.2
+CHS,Did not get needed medical care,2013,11.2,10.3,12.2
+CHS,No Personal Doctor,2013,19.1,18.0,20.3
+CHS,No Personal Doctor,2013,19.1,18.0,20.3
+CHS,Drinks 1 or more sugar-sweetened beverages per day,2013,23.3,22.1,24.6
+CHS,Drinks 1 or more sugar-sweetened beverages per day,2013,23.3,22.1,24.6
+CHS,Smoking Status (current smokers),2013,16.1,15.0,17.2
+CHS,Smoking Status (current smokers),2013,16.1,15.0,17.2
+CHS,Binge Drinking,2013,18.2,17.0,19.4
+CHS,Binge Drinking,2013,18.2,17.0,19.4
+CHS,Obesity,2013,23.4,22.2,24.7
+CHS,Obesity,2013,23.4,22.2,24.7
+CHS,"Colon cancer screening, adults age 50+ (colonoscopy)",2013,69.0,67.0,71.0
+CHS,"Colon cancer screening, adults age 50+ (colonoscopy)",2013,69.0,67.0,71.0
+CHS,Self-reported Health Status (excellent/very good/good),2013,76.9,75.7,78.0
+CHS,Self-reported Health Status (excellent/very good/good),2013,76.9,75.7,78.0
+CHS,"Flu shot in last 12 months, adults ages 65+ (not age-adjusted)",2013,66.8,63.7,69.8
+CHS,"Flu shot in last 12 months, adults ages 65+ (not age-adjusted)",2013,66.8,63.7,69.8
+CHS,Health Insurance Coverage,2014,86.2,85.2,87.2
+CHS,Health Insurance Coverage,2014,86.2,85.2,87.2
+CHS,Did not get needed medical care,2014,9.6,8.7,10.5
+CHS,Did not get needed medical care,2014,9.6,8.7,10.5
+CHS,No Personal Doctor,2014,15.6,14.5,16.7
+CHS,No Personal Doctor,2014,15.6,14.5,16.7
+CHS,Drinks 1 or more sugar-sweetened beverages per day,2014,22.5,21.2,23.8
+CHS,Drinks 1 or more sugar-sweetened beverages per day,2014,22.5,21.2,23.8
+CHS,Smoking Status (current smokers),2014,13.9,12.8,14.9
+CHS,Smoking Status (current smokers),2014,13.9,12.8,14.9
+CHS,Binge Drinking,2014,16.5,15.4,17.7
+CHS,Binge Drinking,2014,16.5,15.4,17.7
+CHS,Obesity,2014,24.7,23.4,26.0
+CHS,Obesity,2014,24.7,23.4,26.0
+CHS,"Colon cancer screening, adults age 50+ (colonoscopy)",2014,69.9,67.8,72.0
+CHS,"Colon cancer screening, adults age 50+ (colonoscopy)",2014,69.9,67.8,72.0
+CHS,Self-reported Health Status (excellent/very good/good),2014,77.8,76.6,78.9
+CHS,Self-reported Health Status (excellent/very good/good),2014,77.8,76.6,78.9
+CHS,"Flu shot in last 12 months, adults ages 65+ (not age-adjusted)",2014,64.2,60.7,67.6
+CHS,"Flu shot in last 12 months, adults ages 65+ (not age-adjusted)",2014,64.2,60.7,67.6
