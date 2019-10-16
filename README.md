@@ -1,1 +1,1 @@
-# dimensionality_reduction_viz
+# Exploratory Visualization of High-Dimensional Data
